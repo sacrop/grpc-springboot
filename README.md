@@ -4,7 +4,7 @@ This project is a simple representation of a system comprising a Web Browser, an
 
 ## Data Flow Diagram
 
-![Data Flow Diagram](diagram/dataflow.png)
+![Data Flow Diagram](grpc-main/diagram/dataflow.png)
 
 ## How it Works 🛠️
 
